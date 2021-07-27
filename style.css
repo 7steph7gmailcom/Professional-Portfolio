@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial;
+  margin: 0;
+  background-color: rgb(125, 163, 235);
+}
+
+header {
+  font-family: Arial;
+  font-style: oblique;
+  font-size: 35px;
+}
+
+h2 {
+  font-size: 35px;
+}
+
+image {
+}
+
+p {
+  font-family: Arial;
+  font-size: 20px;
+  display: inline;
+}
+
+h3 {
+  font-size: 35px;
+}
+
+h4 {
+  font-size: 25px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+footer {
+  text-align: center;
+}
