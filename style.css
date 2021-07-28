@@ -8,17 +8,32 @@ body {
   background-color: rgb(125, 163, 235);
 }
 
-header {
+.StephanieJohansson {
   font-family: Arial;
   font-style: oblique;
-  font-size: 35px;
+  font-size: 55px;
+  margin-left: 30px;
+  display: inline-block;
 }
 
 h2 {
   font-size: 35px;
+  margin-left: 30px;
 }
 
-image {
+.about_me_paragraph {
+  width: 75%;
+  display: inline-block;
+  margin-left: 30px;
+}
+
+.Me {
+  margin-right: 20px;
+  padding: 20px;
+  clear: both;
+  float: right;
+  width: 20%;
+  height: 100%;
 }
 
 p {
@@ -29,6 +44,7 @@ p {
 
 h3 {
   font-size: 35px;
+  margin-left: 30px;
 }
 
 h4 {
