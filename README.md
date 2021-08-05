@@ -2,7 +2,7 @@
 
 # _Stephanie Johansson_
 
-#### \_This weeks project was intended to build upon basic and advanced HTML and CSS skills. Students were asked for the first time to build a code from start to finish for a Professional Portfolio website. Skills demonstrated during the fisrt 2 weeks of class were utilized in the creation of this project.
+#### \_This weeks project was intended to build upon basic and advanced HTML and CSS skills. Students were asked for the first time to build a code from start to finish for a Professional Portfolio website. Skills demonstrated during the first 2 weeks of class were utilized in the creation of this project.
 
 #### By _**Stephanie Johansson**_
 
