@@ -1,0 +1,141 @@
+* {
+  box-sizing: border-box;
+  background-color: rgb(123, 148, 194);
+}
+
+body {
+  font-family: Arial;
+  margin: 0;
+  background-color: rgb(123, 148, 194);
+}
+
+.Me {
+  margin-right: 20px;
+  padding: 20px;
+  clear: both;
+  float: right;
+  width: 20%;
+  height: 100%;
+}
+
+.photoSJ {
+  display: inline;
+  position: absolute;
+  top: 60px;
+  right: 60px;
+  width: 20%;
+  height: auto;
+}
+
+.StephanieJohansson {
+  font-family: Arial;
+  font-style: oblique;
+  font-size: 50px;
+  color: black;
+  margin-top: 35px;
+  margin-left: 30px;
+  margin-bottom: 50px;
+  display: inline-block;
+}
+
+h2 {
+  font-size: 35px;
+  margin-left: 30px;
+  display: inline;
+}
+
+.about_me_paragraph {
+  width: 65%;
+  display: inline-block;
+  margin-left: 40px;
+  padding: 20px;
+}
+
+p {
+  font-family: Arial;
+  font-size: 20px;
+  display: inline;
+}
+
+h3 {
+  text-align: center;
+  font-size: 35px;
+  color: black;
+  padding: 30px;
+}
+
+img {
+  position: absolute;
+  margin-top: -15px;
+  margin-left: -45px;
+}
+
+.flex_container {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  flex-direction: row;
+  margin: 25px;
+}
+.flex_item1,
+.flex_item {
+  flex-wrap: wrap;
+  height: 120px;
+  width: 320px;
+  box-sizing: border-box;
+  padding: 45px;
+  display: inline;
+  background-color: black;
+  color: wheat;
+  size: 25px;
+  text-align: center;
+}
+
+/* .flex_item1 {
+  color: wheat;
+  size: 35px;
+  text-align: center;
+  background-color: black;
+} */
+
+footer {
+  display: block;
+  text-align: center;
+  font-size: 20px;
+  clear: both;
+}
+
+h5 {
+  display: block;
+  font-size: 30px;
+  text-align: center;
+  margin: 50px;
+}
+
+ul,
+li {
+  display: block;
+  list-style-type: none;
+  margin: none;
+  text-align: center;
+  padding: 0;
+}
+
+
+@media only screen and (max-width: 576px) {
+  .flex_container {
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .flex_container {
+   
+  }
+}
+
+@media only screen and (max-width: 992px) {
+  .flex_container {
+    
+  }
+}
