@@ -85,6 +85,7 @@ img {
   flex-direction: row;
   margin: 25px;
 }
+
 .flex_item1,
 .flex_item {
   flex-wrap: wrap;
@@ -93,7 +94,7 @@ img {
   box-sizing: border-box;
   padding: 45px;
   display: inline;
-  background-color: black;
+  /* background-color: black; */
   color: wheat;
   size: 25px;
   text-align: center;
@@ -102,12 +103,12 @@ img {
 }
 
 .flex_item1 {
-position: absolute;
-margin-top: 22px;
-margin-left: -1250px;
-padding: 20px;
-background: transparent;
-}
+  position: absolute;
+  margin-top: 22px;
+  margin-left: -1250px;
+  padding: 20px;
+  background: transparent;
+  }
 
 
 
