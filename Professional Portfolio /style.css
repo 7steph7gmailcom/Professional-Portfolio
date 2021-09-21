@@ -83,34 +83,63 @@ img {
   flex-wrap: wrap;
   justify-content: space-around;
   flex-direction: row;
-  margin: 25px;
+  /* margin: 25px; */
 }
 
-.flex_item1,
+
+
 .flex_item {
+  display: none;
+}
+
+
+.flex_item1
+ {
   flex-wrap: wrap;
   height: 120px;
   width: 320px;
-  box-sizing: border-box;
-  padding: 45px;
-  display: inline;
+  /* padding: 45px; */
   /* background-color: black; */
   color: wheat;
-  size: 25px;
+  /* size: 25px; */
   text-align: center;
   justify-content: space-between;
   margin-top: 35px;
+  margin-left: -100px;
 }
 
-.flex_item1 {
+.flex_item2 {
+  flex-wrap: wrap;
+  height: 120px;
+  width: 320px;
+  clear: both;
+  position: absolute;
+  left: -850px;
+  top: 800px;
+  /* padding: 45px; */
+  /* background-color: black; */
+  color: wheat;
+  /* size: 25px; */
+  /* text-align: center;
+  justify-content: space-between; */
+  /* margin-top: 35px; */
+  
+}
+ /* .flex_item1 {
   position: absolute;
   margin-top: 22px;
-  margin-left: -1250px;
+  /* margin-left: -1250px; */
+  /* padding: 20px;
+  background: transparent;
+  }  */
+
+/* .flex_item2 {
+  position: absolute;
+  margin-top: 22px;
+  margin-left: -100px;
   padding: 20px;
   background: transparent;
-  }
-
-
+} */ 
 
 /* .card {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
